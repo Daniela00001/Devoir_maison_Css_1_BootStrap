@@ -189,7 +189,11 @@ main .trio_rows ul {
     text-align: center;
 }
 
-
+footer ul li {
+    list-style: disc !important;
+    color: #67bbe6;
+    margin-left: 19px;
+}
 
 
 /* Media Query pour écrans de 768 pixels ou moins */
